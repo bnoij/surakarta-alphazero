@@ -1,4 +1,5 @@
 #include <string.h>
+#include <string>
 #include "surakarta_alphazero.h"
 
 int main(int argc, char** argv) {
